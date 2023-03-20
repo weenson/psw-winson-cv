@@ -45,3 +45,48 @@
 
      margin: 50px;
 }
+
+.box{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+} 
+
+.card{
+    height: 350px;
+    width: 335px;
+    padding: 20px 35px;
+    background: whitesmoke;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+ 
+.para p{
+    color: darkgrey;
+    margin-bottom: 50px;
+    line-height: 27px;
+}
+
+.btnRead{
+    background-color: teal;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid transparent;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.btnRead:hover{
+    background-color: transparent;
+    color: teal;
+    border: 2px solid teal;
+    cursor: pointer;
+
+}

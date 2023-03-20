@@ -21,22 +21,42 @@
         </div>
     </div>
   
-    <div class="about">
-    <div style="display:flex; flex-direction:row; gap:75px ;justify-content:space-around; font-family: 'Poppins', sans-serif; margin:50px">
-        <div>
-            <h1 style="text-align:center">About Me</h1>
-            <p style="text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis deleniti quam vero consequuntur. Mollitia, repellat iure doloribus libero unde magnam?</p>
+   <div style="font-family: 'Poppins', sans-serif;">
+    <div class="box">
+        <div class="card">
+            <h2 style="color:#181818">About Me</h2>
+            <div class="para">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
+                <p style="text-align: center">
+                     <a class="btnRead" href="#">Read More</a>
+                </p>
+            </div>
         </div>
-        <div>
-            <h1 style="text-align:center">What to expect</h1>
-            <p style="text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis deleniti quam vero consequuntur. Mollitia, repellat iure doloribus libero unde magnam?</p>
-        </div>
-        <div>
-            <h1 style="text-align:center">See my work</h1>
-            <p style="text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis deleniti quam vero consequuntur. Mollitia, repellat iure doloribus libero unde magnam?</p>
-        </div>
-    </div>
-    </div>
+
+        <div class="box">
+            <div class="card">
+                <h2 style="color:#181818">What to expect</h2>
+                <div class="para">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
+                    <p style="text-align: center">
+                         <a class="btnRead" href="#">Read More</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="card">
+                    <h2 style="color:#181818">See my work</h2>
+                    <div class="para">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
+                        <p style="text-align: center">
+                             <a class="btnRead" href="#">Read More</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+   </div>
 
     <div>
        
