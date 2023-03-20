@@ -15,8 +15,8 @@
     <div style="width: 100vw; height: 60vh; display: flex; align-items: center; justify-content: center; font-family: 'Poppins', sans-serif;">
         <div class="container">
             <img class="profile" src={{ asset('images/wn.png') }} alt="" style="display:flex; justify-content;center; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left:40px; margin-right:40px;">
-            <h1 style="text-align:center; margin-bottom:0px">Winson Napoleon</h1>
-            <p style="text-align:center">Hi! I'm a student</p>
+            <h1 style="text-align:center; margin-bottom:0px; color:#313031">Winson Napoleon</h1>
+            <p style="text-align:center; color:darkgrey">Hi! I'm a student</p>
             <a class="btn" href="https://www.instagram.com/wiinson_/" target="_blank">Check me out!</a>
         </div>
     </div>
@@ -24,7 +24,7 @@
    <div style="font-family: 'Poppins', sans-serif;">
     <div class="box">
         <div class="card">
-            <h2 style="color:#181818">About Me</h2>
+            <h2 style="color:#313031">About Me</h2>
             <div class="para">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                 <p style="text-align: center">
@@ -35,7 +35,7 @@
 
         <div class="box">
             <div class="card">
-                <h2 style="color:#181818">What to expect</h2>
+                <h2 style="color:#313031">What to expect</h2>
                 <div class="para">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                     <p style="text-align: center">
@@ -46,7 +46,7 @@
 
             <div class="box">
                 <div class="card">
-                    <h2 style="color:#181818">See my work</h2>
+                    <h2 style="color:#313031">See my work</h2>
                     <div class="para">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                         <p style="text-align: center">

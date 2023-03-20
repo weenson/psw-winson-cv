@@ -64,6 +64,12 @@
     position: relative;
     overflow: hidden;
     text-align: center;
+    transition-property: transform;
+    transition-duration: 0.4s;
+}
+
+.card:hover{
+    transform: scale(1.1);
 }
  
 .para p{
