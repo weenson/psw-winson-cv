@@ -1,0 +1,47 @@
+.profile{
+    transition-duration: 0.3s;
+    transition-duration: transform;
+}
+
+.profile:hover{
+    transform: scale(1.1);
+}
+
+.btn{
+    font-weight:bold; 
+    background-color:teal;
+    width:150px; 
+    padding: 15px 20px 15px 20px; 
+    text-align:center; 
+    text-decoration: none;
+    color:white; 
+    height:auto; 
+    cursor:pointer;
+    border-radius:5px; 
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+    transition-duration: 0.3s;
+    transition-property: box-shadow,transform;
+
+   
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn:hover{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+}
+
+.container{
+    padding: 40px 40px 40px 40px;
+    border-radius: 30px;
+}
+
+.about{
+     background-color: whitesmoke;
+     border-radius:5px; 
+     box-shadow:0 0 10px rgba(0, 0, 0, 0.2);
+
+     margin: 50px;
+}
