@@ -28,7 +28,7 @@
             <div class="para">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                 <p style="text-align: center">
-                     <a class="btnRead" href="#">Read More</a>
+                     <a class="btn-read" href="#">Read More</a>
                 </p>
             </div>
         </div>
@@ -39,7 +39,7 @@
                 <div class="para">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                     <p style="text-align: center">
-                         <a class="btnRead" href="#">Read More</a>
+                         <a class="btn-read" href="#">Read More</a>
                     </p>
                 </div>
             </div>
@@ -50,18 +50,76 @@
                     <div class="para">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod perspiciatis sapiente quisquam, temporibus obcaecati, ullam quia veniam ea dolore, a excepturi corrupti. Nesciunt labore officiis aperiam mollitia tenetur. Rem?</p>
                         <p style="text-align: center">
-                             <a class="btnRead" href="#">Read More</a>
+                             <a class="btn-read" href="#">Read More</a>
                         </p>
                     </div>
                 </div>
             </div>
-
    </div>
+</div>
 
-    <div>
-       
+<div class="latest-work" style="font-family:'Poppins', sans-serif;"> 
+    <h2 style="display:flex; text-align:center; justify-content:center; margin-bottom:20px; color:#313031">Latest Project</h2>
+
+    <div class="latest-container">
+        <div class="latest-box"> 
+            <img src="{{asset('images/port1.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Samurai</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+
+    <div class="latest-box"> 
+            <img src="{{asset('images/port2.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Oni</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+  
+        <div class="latest-box"> 
+            <img src="{{asset('images/port3.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Karasu</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+  
+        <div class="latest-box"> 
+            <img src="{{asset('images/port4.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Akuma</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+    
+        <div class="latest-box"> 
+            <img src="{{asset('images/port5.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Dullahan</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+
+        <div class="latest-box"> 
+            <img src="{{asset('images/port6.jpeg') }} " alt="">
+            <div class="latest-layer">
+                <h4>Damonisch</h4>
+                <p>Lorem ipsum dolo r sit amet consectetur adipisicing elit.</p>
+            </div>
+        </div>
+
+    </div>
+     
+    
     </div>
 
+    </div>
+       
+   
+    
+    
 </div>
   </body>
 

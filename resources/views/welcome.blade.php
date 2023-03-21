@@ -137,3 +137,7 @@
         </div>
     </body>
 </html>
+
+<div class="about">
+    <div style="display:flex; flex-direction:row; gap:75px ;justify-content:space-around; font-family: 'Poppins', sans-serif; margin:50px">
+        
